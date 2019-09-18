@@ -1,0 +1,51 @@
+.header {
+	background-color: #5b7989;
+	overflow: hidden;
+	border-radius: 10px 10px 0px 0px;
+}
+
+.logo {
+	float: left;
+	overflow: hidden;
+	line-height: 100px;
+	margin-left: 30px;
+	color: white;
+	font-size: 20px;
+	text-shadow: 2px 2px 2px #02010a;
+}
+
+.menu {
+	float: right;
+	line-height: 130px;
+	display: inline-block;
+	margin-right: 30px;
+}
+
+.menu a {
+	padding: 10px 20px;
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+}
+
+.centrado {
+	margin:auto;
+	display:block;
+	-webkit-box-shadow: 2px 2px 2px #02010a;
+	height: 400px
+}
+
+.contenido1 {
+	background-color: #82c3a6;
+}
+
+body {
+	background-color: black;
+	font-family: 'Dancing Script', cursive;
+}
+
+#contenido {
+ width: 90%;
+ margin: auto;
+ display: block;
+}
